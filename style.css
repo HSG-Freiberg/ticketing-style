@@ -1,3 +1,14 @@
 #Submit {
   background-color: #25A751;
 }
+
+#TopNavOuter {
+    color: #25A751 !important;
+    text-decoration: none;
+    border-bottom: none;
+    font-weight: 400;
+}
+
+.TabActive {
+    color: #25A751 !important;
+}
