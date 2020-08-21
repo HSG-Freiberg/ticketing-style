@@ -2,7 +2,7 @@
   background-color: #25A751;
 }
 
-#TopNavOuter {
+A.LinkTopNav:link, A.LinkTopNav:visited, A.LinkTopNav:hover {
     color: #25A751 !important;
     text-decoration: none;
     border-bottom: none;
