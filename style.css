@@ -12,3 +12,7 @@ A.LinkTopNav:link, A.LinkTopNav:visited, A.LinkTopNav:hover {
 .TabActive {
     color: #25A751 !important;
 }
+
+.FooterInfo {float: unset;}
+i.fas.fa-play {color: #25A751;}
+td.SpacerMd.Right {width: 0%;}
